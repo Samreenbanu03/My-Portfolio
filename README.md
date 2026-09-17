@@ -1,16 +1,96 @@
-# React + Vite
+# 👩‍💻 Samreen | Ansible & DevOps Engineer
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+<p align="center">
+  <strong>Automation • DevOps • CI/CD • Cloud • Ansible • AI</strong>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="https://samreen-portfolio-bice.vercel.app/">
+    🌐 <strong>Visit My Live Portfolio</strong>
+  </a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am an IT professional focused on **Ansible, DevOps automation, CI/CD, cloud technologies, Docker, Jenkins, GitHub Actions, and AI-powered solutions**.
 
-## Expanding the Oxlint configuration
+I enjoy building practical automation solutions, improving deployment workflows, and learning modern DevOps practices through hands-on projects.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+My goal is to design reliable, scalable, and automated solutions that reduce manual effort and improve software delivery.
+
+---
+
+## 🌐 Live Portfolio
+
+### 👉 [Visit My Portfolio](https://samreen-portfolio-bice.vercel.app/)
+
+My portfolio showcases my:
+
+* 💼 Professional experience
+* ⚙️ DevOps & automation skills
+* 🤖 Ansible projects
+* 🐳 Docker & containerization projects
+* 🔄 CI/CD implementations
+* ☁️ Cloud knowledge
+* 🏆 Certifications
+* 🧠 AI-related projects and learning
+
+---
+
+## 🛠️ Technical Skills
+
+### ⚙️ DevOps & Automation
+
+| Technology         | Skills                                             |
+| ------------------ | -------------------------------------------------- |
+| **Ansible**        | Playbooks, Roles, Inventory, Variables, Automation |
+| **Jenkins**        | CI/CD pipelines, Agents, Build & Deployment        |
+| **GitHub Actions** | Workflow automation, CI/CD                         |
+| **GitLab CI/CD**   | Pipeline automation                                |
+| **Docker**         | Images, Containers, Dockerfile, Volumes, Networks  |
+| **Linux**          | Ubuntu, Shell commands, System administration      |
+
+### ☁️ Cloud & Infrastructure
+
+* AWS
+* Azure
+* Infrastructure Automation
+* Deployment Automation
+* Environment Configuration
+
+### 🔧 Tools
+
+* Git
+* GitHub
+* GitLab
+* Jenkins
+* Docker
+* Ansible
+* VS Code
+* Linux / WSL
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://samreen-portfolio-bice.vercel.app/">
+  🌐 Portfolio
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Samreenbanu03">
+  💻 GitHub
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>✨ Building • Automating • Learning • Improving ✨</strong>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my repository!
+</p>
