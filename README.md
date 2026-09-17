@@ -1,4 +1,4 @@
-# 👩‍💻 Samreen | Ansible & DevOps Engineer
+# 👩‍💻 Samreenbanu M Havaldar | Ansible & DevOps Engineer
 
 <p align="center">
   <strong>Automation • DevOps • CI/CD • Cloud • Ansible • AI</strong>
