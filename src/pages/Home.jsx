@@ -1,24 +1,27 @@
 import { Link } from "react-router-dom";
-
 import DevOpsBackground from "../components/DevOpsBackground";
 
 function Home() {
   return (
     <section className="home">
 
-      {/* Animated Background */}
+      {/* =====================================================
+          ANIMATED BACKGROUND
+      ===================================================== */}
 
       <DevOpsBackground />
 
 
-      {/* Main Content */}
+      {/* =====================================================
+          MAIN CONTENT
+      ===================================================== */}
 
       <div className="home-container">
 
 
-        {/* =====================================
+        {/* =================================================
             LEFT — HERO CONTENT
-        ===================================== */}
+        ================================================= */}
 
         <div className="hero-content">
 
@@ -28,26 +31,21 @@ function Home() {
 
 
           <h1>
-
             Building reliable
-
             <span>
               {" "}delivery systems.
             </span>
-
           </h1>
 
 
           <p className="hero-description">
-
             Automation, CI/CD, containers and cloud
             technologies for reliable and repeatable
             software delivery.
-
           </p>
 
 
-          {/* Buttons */}
+          {/* BUTTONS */}
 
           <div className="hero-actions">
 
@@ -57,7 +55,6 @@ function Home() {
             >
               Explore Projects
             </Link>
-
 
             <Link
               to="/contact"
@@ -69,47 +66,47 @@ function Home() {
           </div>
 
 
-          {/* Technologies */}
+          {/* TECHNOLOGIES */}
 
           <div className="hero-technologies">
 
-            <span>
-              Automation
-            </span>
-
-            <span>
-              CI/CD
-            </span>
-
-            <span>
-              Docker
-            </span>
-
-            <span>
-              AWS
-            </span>
-
-            <span>
-              Linux
-            </span>
+            <span>Automation</span>
+            <span>CI/CD</span>
+            <span>Docker</span>
+            <span>AWS</span>
+            <span>Linux</span>
 
           </div>
 
         </div>
 
 
-        {/* =====================================
-            RIGHT — DEVOPS ARCHITECTURE
-        ===================================== */}
+        {/* =================================================
+            CENTER — BLENDED PROFILE PHOTO
+        ================================================= */}
+
+        <div className="hero-photo">
+
+          <div className="hero-photo-glow"></div>
+
+          <img
+            src="/Profile-photo.jpeg"
+            alt="Samreen"
+          />
+
+        </div>
+
+
+        {/* =================================================
+            RIGHT — DEVOPS WORKFLOW
+        ================================================= */}
 
         <div className="devops-visual">
 
           <div className="architecture">
 
 
-            {/* =================================
-                GITHUB
-            ================================= */}
+            {/* GITHUB */}
 
             <div className="architecture-node github">
 
@@ -132,18 +129,14 @@ function Home() {
             </div>
 
 
-            {/* GitHub → CI/CD */}
+            {/* GITHUB → CI/CD */}
 
             <div className="flow-line flow-one">
-
               <span></span>
-
             </div>
 
 
-            {/* =================================
-                CI/CD
-            ================================= */}
+            {/* CI/CD */}
 
             <div className="architecture-node cicd">
 
@@ -166,18 +159,14 @@ function Home() {
             </div>
 
 
-            {/* CI/CD → Automation */}
+            {/* CI/CD → AUTOMATION */}
 
             <div className="flow-line flow-two">
-
               <span></span>
-
             </div>
 
 
-            {/* =================================
-                AUTOMATION
-            ================================= */}
+            {/* AUTOMATION */}
 
             <div className="architecture-node automation">
 
@@ -200,9 +189,7 @@ function Home() {
             </div>
 
 
-            {/* =================================
-                DOCKER
-            ================================= */}
+            {/* DOCKER */}
 
             <div className="side-node docker-node">
 
@@ -225,9 +212,7 @@ function Home() {
             </div>
 
 
-            {/* =================================
-                AWS
-            ================================= */}
+            {/* AWS */}
 
             <div className="side-node aws-node">
 
@@ -250,18 +235,14 @@ function Home() {
             </div>
 
 
-            {/* Automation → Application */}
+            {/* AUTOMATION → APPLICATION */}
 
             <div className="deployment-line">
-
               <span></span>
-
             </div>
 
 
-            {/* =================================
-                APPLICATION
-            ================================= */}
+            {/* APPLICATION */}
 
             <div className="architecture-node application">
 
@@ -282,6 +263,7 @@ function Home() {
               </div>
 
             </div>
+
 
           </div>
 
